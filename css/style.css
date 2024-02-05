@@ -1,0 +1,28 @@
+header {
+    background-color: #4ea0ff;
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat;
+    padding-top: 5%;
+
+}
+
+.logo {
+    width: 300px;
+}
+
+.colorname{
+    color: #4ea0ff ;
+}
+
+
+th {
+    text-align: center;
+}
+
+.ttt{
+    position: relative;
+}
+
+table{
+    border: solid 1px black;
+}
