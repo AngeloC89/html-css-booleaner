@@ -4,6 +4,7 @@ body {
     font-weight: <weight>;
     font-style: normal;
 }
+   
 
 
 header {
@@ -77,4 +78,8 @@ aside {
 .tab {
     width: 200px;
 
+}
+
+.textf {
+    padding: 10px;
 }
