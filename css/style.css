@@ -1,3 +1,11 @@
+body {
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+
 header {
     background-color: #4ea0ff;
     background-image: url(../img/pattern.png);
@@ -5,45 +13,68 @@ header {
     padding-top: 5%;
 
 }
+.descrizione {
+    font-size: 16px
+}
+
+h1 {
+    font-family: ;
+}
 
 .logo {
     width: 200px;
 }
 
-.colorname{
-    color: #4ea0ff ;
+.colorname {
+    color: #4ea0ff;
 }
 
+/*tabella*/
+.prima {
+    background-color: rgb(111, 217, 255);
 
+}
+
+.terza {
+    background-color: rgb(111, 217, 255);
+}
 th {
     text-align: center;
 }
 
-.ttt{
-    position: relative;
-}
-
-
 thead {
     background-color: #4ea0ff;
     color: white;
-    
-
+    text-align: left;
+    padding-left: 15px;
 }
 
-td{
-
+.ella{
+    text-align: left;
+}
+/* div delle immagini finali */
+.ttt {
+    background-image: url(../img/graph.jpg);
+    width: 308px;
+    height: 206px;
+    color: whitesmoke;
 }
 
-.prima {
-    background-color:rgb(111, 217, 255);
-    
+.ttt2 {
+    background-image: url(../img/monitor.jpg);
+    width: 310px;
+    height: 206px;
+    color: whitesmoke;
 }
 
-.terza{
-    background-color:rgb(111, 217, 255);
+
+
+
+aside {
+    position: relative;
 }
-.tab{
+
+.tab {
     width: 200px;
-    
+
 }
