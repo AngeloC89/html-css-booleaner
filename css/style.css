@@ -7,7 +7,7 @@ header {
 }
 
 .logo {
-    width: 300px;
+    width: 200px;
 }
 
 .colorname{
@@ -23,6 +23,27 @@ th {
     position: relative;
 }
 
-table{
-    border: solid 1px black;
+
+thead {
+    background-color: #4ea0ff;
+    color: white;
+    
+
+}
+
+td{
+
+}
+
+.prima {
+    background-color:rgb(111, 217, 255);
+    
+}
+
+.terza{
+    background-color:rgb(111, 217, 255);
+}
+.tab{
+    width: 200px;
+    
 }
